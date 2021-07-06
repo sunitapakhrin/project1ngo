@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700;1,900&family=Mulish:ital,wght@0,300;0,400;0,600;0,800;1,500;1,700&display=swap');
+body
+{
+	font-family: 'Mulish', sans-serif;
+}
+.banner
+{
+	
+	background: url(https://www.oie.int/app/uploads/2021/04/microsoftteams-image-1.jpeg);
+	background-size: cover;
+	height: 80vh;
+}
+.bg-light
+{
+	background: transparent !important;
+
+}
+.navbar-light .navbar-nav .nav-link
+{
+	color:#fff;
+	font-size: 16px;
+	text-transform: uppercase;
+	padding: 15px;
+	font-family: 'Lato', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link 
+{
+	color:orange;
+}
+.navbar-light .navbar-brand
+{
+	color:#fff;
+	font-size:28px;
+	font-weight: bold;
+	text-shadow: 2px 5px 3px (0 0 0 / 6%);
+	letter-spacing:1px;
+	margin-top: 10px;
+}
+.btn
+{
+	padding: 8px;
+	padding-bottom: 10px;
+	border-radius: 15%;
+	text-align: center;
+}
+.content h4
+{
+	font-weight: bold;
+}
+.content h3 
+{
+	font-weight: bold;
+}
+.content h6
+{
+	font-weight: bold;
+}
+.content p
+{
+	color: grey;
+}
+.text
+{
+	display: inline;
+}
+.foot
+{
+	background: #42b8dd;
+    color: #fff;
+}
+.foot ul li
+{
+	text-decoration: none;
+	list-style: none;
+}
+.foot-top
+{
+	background-color: #454444;
+	color: white;
+}
+.left ul li
+{
+	
+	list-style: none;
+	
+}
+.left a
+{
+	color:white;
+	list-style: none;
+	text-decoration: none;
+}
+.left h6
+{
+	font-weight: bold;
+	font-size: 18px;
+}
+.icon
+{
+	font-size: 35px;
+}
+.btn1
+{
+	padding: 10px;
+	text-decoration: none;
+}
+.term h4
+{
+	font-weight: bold;
+}
+.foot-bottom
+{
+	background: #2F2E2E;
+	color:#fff;
+}
+.image
+{
+	margin-left: 40px;
+}
+.flag h3
+{
+	font-weight: bold;
+	font-size: 35px;
+}
+.video
+{
+	margin-left: 60px;
+}
+.video h4
+{
+	font-weight: bold;
+}
+.news p
+{
+	color:grey;
+	font-size: 16px;
+	font-weight: bold;
+}
+.event h2
+{
+	font-size: 24px;
+	font-weight: bold;
+}
+.event h4
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+.donate h4
+{
+	font-weight: bold;
+}
+.donate p
+{
+	color:grey;
+	font-weight: bold;
+}
+.country p
+{
+	font-weight: bold;
+	color:blue;
+	margin: 0 0 10px;
+
+}
+.country h4
+{
+	font-weight: bold;
+
+}
+.amount h4 
+{
+	font-weight: bold;
+}
+.amount p 
+{
+	color:grey;
+	font-weight: bold;
+}
+.amount ul li
+{
+	color:grey;
+	font-weight: bold;
+}
+.news h6
+{
+	font-weight: bold;
+}
